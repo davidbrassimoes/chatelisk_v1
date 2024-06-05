@@ -1,0 +1,7 @@
+ver como faço deploy da app node js, checkar firebase e heroku
+
+checkar phoenix, pode ser melhor que com nodejs
+
+desenhar base de dados -> ver a hipótese da moda gratuita e finest cloud shit
+
+desenhar front end - svelte com tailwind 

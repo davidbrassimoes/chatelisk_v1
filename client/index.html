@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="index.css" />
+  </head>
+  <body>
+    <div id="messages"></div>
+    <div
+      style="display: flex; justify-content: space-between; align-items: center"
+    >
+      <input
+        id="messageInput"
+        type="text"
+        style="flex-grow: 1; margin-right: 10px"
+      />
+      <button id="sendButton" style="margin-right: 10px">Criar</button>
+      <button id="deleteButton">Destruir</button>
+    </div>
+    <script src="https://cdn.socket.io/4.2.0/socket.io.min.js"></script>
+    <script src="handler.js"></script>
+  </body>
+</html>
